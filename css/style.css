@@ -1,0 +1,15 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: larger;
+}
+.panda-bg{
+    background-color: #FCEAE8;
+}
+.categories> img{
+    width: 100px;
+}
+.panda-btn{
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
